@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+C:\Users\VictorRuizSanchez\Desktop\BOOTCAMP GIT+JAVA+ANGULAR+SPRING\JAVA\workspace\.metadata\.plugins\org.eclipse.jdt.core
+793950716.index
+1738602461.index
+3258404201.index
+1575675258.index
+1565377597.index
+1983371327.index
+2197712727.index
+4000583972.index
+830629725.index
+3570310880.index
+1389879697.index
+3594290153.index
+3503963056.index
+1124524835.index
+2180531574.index
+2236687192.index
+936883979.index
+3946639745.index
+762679897.index
